@@ -1,2 +1,2 @@
 # under_construction_html_page
-ss.png
+https://github.com/ishakaa/under_construction_html_page/blob/main/ss.png
